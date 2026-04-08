@@ -1,3 +1,10 @@
 streamlit
 pandas
+pyserial
 edge-tts
+vosk
+pyaudio
+ollama
+opencv-python
+numpy
+Pillow
