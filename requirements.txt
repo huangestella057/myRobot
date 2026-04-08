@@ -1,12 +1,11 @@
 streamlit
+opencv-python-headless
 pandas
-pyserial
-opencv-python
 numpy
 Pillow
 deepface
 vosk
-pyaudio
-ollama
 edge-tts
 pygame
+pyaudio
+ollama
